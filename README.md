@@ -13,7 +13,9 @@ it also requires other packages-
 ->libpq-dev
 for ubuntu they can be installed as 
 `sudo apt-get update -y`
+
 `sudo apt-get install -y python-dev`
+
 `sudo apt-get install -y libpq-dev`
 
 then run
