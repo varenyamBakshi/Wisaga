@@ -22,3 +22,7 @@ then run
 `pip install psycopg2`
 
 if any error occur check https://www.psycopg.org/docs/install.html of google it XD.
+
+To integrate the database to the django project follow the below link.
+https://www.digitalocean.com/community/tutorials/how-to-create-a-django-app-and-connect-it-to-a-database
+This tutorial is for MySQL where ever necessary change it with postgre sql.
