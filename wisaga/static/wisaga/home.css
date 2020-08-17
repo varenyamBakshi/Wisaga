@@ -1,0 +1,376 @@
+body{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background: #141414 0% 0% no-repeat padding-box;
+    opacity: 1;
+    /* background-image: url("homebackground.png"); */
+}
+
+#page1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background: transparent url('homebg.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#nav{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 132px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#logo{
+    position: absolute;
+    top: 61px;
+    left: 233px;
+    width: 131px;
+    height: 57px;
+    text-align: center;
+    font: Bold 36px/53px Muli;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#home{
+    position: absolute;
+    top: 75px;
+    left: 928px;
+    width: 71px;
+    height: 43px;
+    text-align: center;
+    font: bold 24px/35px Muli;
+    letter-spacing: 0px;
+    color: #18CD40;
+    opacity: 1;
+}
+
+#about{
+    position: absolute;
+    top: 75px;
+    left: 1064px;
+    width: 109px;
+    height: 43px;
+    text-align: center;
+    font: normal 24px/35px Muli;
+    letter-spacing: 0px;
+    color: #18CD40;
+    opacity: 0.8;
+}
+
+#courses{
+    position: absolute;
+    top: 75px;
+    left: 1240px;
+    width: 99px;
+    height: 43px;
+    text-align: center;
+    font: normal 24px/35px Muli;
+    letter-spacing: 0px;
+    color: #18CD40;
+    opacity: 0.8;
+}
+
+#contact{
+    position: absolute;
+    top: 75px;
+    left: 1403px;
+    width: 71px;
+    height: 43px;
+    text-align: center;
+    font: normal 24px/35px Muli;
+    letter-spacing: 0px;
+    color: #18CD40;
+    opacity: 0.8;
+}
+
+#signin{
+    position: absolute;
+    top: 75px;
+    left: 1543px;
+    width: 144px;
+    height: 43px;
+    background: #18CD40 0% 0% no-repeat padding-box;
+    opacity: 1;
+    text-align: center;
+    font: normal 24px/30px Muli;
+    letter-spacing: 0px;
+    color: #1D1D1D;
+    border-radius: 25px;
+}
+
+#title{
+    position: absolute;
+    top: 307px;
+    left: 225px;
+    width: 264px;
+    height: 112px;
+    text-align: center;
+    font: Bold 72px/106px Muli;
+    letter-spacing: 0px;
+    color: #18CD40;
+    opacity: 1;
+}
+
+#des{
+    position: absolute;
+    top: 449px;
+    left: 225px;
+    width: 455px;
+    height: 38px;
+    text-align: left;
+    font: Bold 28px/41px Muli;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#message{
+    position: absolute;
+    top: 500px;
+    left: 225px;
+    width: 456px;
+    height: 157px;
+    text-align: left;
+    font: normal 28px/40px Product Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#explore{
+    position: absolute;
+    top: 683px;
+    left: 225px;
+    width: 220px;
+    height: 67px;
+    background: #18CD40 0% 0% no-repeat padding-box;
+    border-radius: 34px;
+    opacity: 1;
+    text-align: center;
+    font: Bold 24px/35px Muli;
+    letter-spacing: 0px;
+    color: #1D1D1D;
+}
+
+
+#pt1{
+    position: absolute;
+    top: 1349px;
+    left: 1034px;
+    width: 548px;
+    height: 72px;
+    text-align: left;
+    font: Bold 46px/68px Muli;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#txt1{
+    position: absolute;
+    top: 1499px;
+    left: 1034px;
+    width: 548px;
+    height: 252px;
+    text-align: left;
+    font: normal 24px/34px Bahnschrift;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#btn1{
+    position: absolute;
+    top: 1718px;
+    left: 1034px;
+    width: 245px;
+    height: 67px;
+    border: 3px solid #18CD40;
+    border-radius: 34px;
+    background-color: #141414;
+    opacity: 1;
+    text-align: center;
+    font: Bold 24px/35px Muli;
+    letter-spacing: 0px;
+    color: #18CD40;
+}
+
+#img1{
+    position: absolute;
+    top: 1351px;
+    left: 156px;
+    width: 730px;
+    height: 432px;
+    /* background: transparent url('img1.png') 0% 0% no-repeat padding-box; */
+    mix-blend-mode: difference;
+    border-radius: 236px 0px 0px 0px;
+    opacity: 1;
+}
+
+#pt2{
+    position: absolute;
+    top: 2115px;
+    left: 338px;
+    width: 548px;
+    height: 72px;
+    text-align: right;
+    font: Bold 46px/68px Muli;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#txt2{
+    position: absolute;
+    top: 2265px;
+    left: 338px;
+    width: 548px;
+    height: 101px;
+    text-align: right;
+    font: normal 24px/34px Bahnschrift;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#btn2{
+    position: absolute;
+    top: 2427px;
+    left: 641px;
+    width: 245px;
+    height: 67px;
+    border: 3px solid #18CD40;
+    border-radius: 34px;
+    background-color: #141414;
+    opacity: 1;
+    text-align: center;
+    font: Bold 24px/35px Muli;
+    letter-spacing: 0px;
+    color: #18CD40;
+}
+
+#img2{
+    position: absolute;
+    top: 2088px;
+    left: 1034px;
+    width: 730px;
+    height: 432px;
+    /* background: transparent url('img2.png') 0% 0% no-repeat padding-box; */
+    border-radius: 0px 0px 236px 0px;
+    opacity: 1;
+}
+
+#pt3{
+    position: absolute;
+    top: 2854px;
+    left: 1034px;
+    width: 548px;
+    height: 72px;
+    text-align: left;
+    font: Bold 46px/68px Muli;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#txt3{
+    position: absolute;
+    top: 3004px;
+    left: 1034px;
+    width: 548px;
+    height: 208px;
+    text-align: left;
+    font: normal 24px/34px Bahnschrift;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#btn3{
+    position: absolute;
+    top: 3161px;
+    left: 1034px;
+    width: 245px;
+    height: 67px;
+    border: 3px solid #18CD40;
+    border-radius: 34px;
+    background-color: #141414;
+    opacity: 1;
+    text-align: center;
+    font: Bold 24px/35px Muli;
+    letter-spacing: 0px;
+    color: #18CD40;
+}
+
+#img3{
+    position: absolute;
+    top: 2825px;
+    left: 156px;
+    width: 730px;
+    height: 432px;
+    /* background: transparent url('img3.png') 0% 0% no-repeat padding-box; */
+    border-radius: 236px 0px 0px 0px;
+    opacity: 1;
+}
+
+#pt4{
+    position: absolute;
+    top: 3555px;
+    left: 315px;
+    width: 571px;
+    height: 72px;
+    text-align: right;
+    font: Bold 46px/68px Muli;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#txt4{
+    position: absolute;
+    top: 3705px;
+    left: 338px;
+    width: 548px;
+    height: 296px;
+    text-align: right;
+    font: normal 24px/34px Bahnschrift;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#btn4{
+    position: absolute;
+    top: 3934px;
+    left: 641px;
+    width: 245px;
+    height: 67px;
+    border: 3px solid #18CD40;
+    border-radius: 34px;
+    background-color: #141414;
+    opacity: 1;
+    text-align: center;
+    font: Bold 24px/35px Muli;
+    letter-spacing: 0px;
+    color: #18CD40;
+}
+#img4{
+    position: absolute;
+    top: 3562px;
+    left: 1034px;
+    width: 730px;
+    height: 432px;
+    /* background: transparent url('img4.png') 0% 0% no-repeat padding-box; */
+    border-radius: 0px 0px 236px 0px;
+    opacity: 1;
+}
